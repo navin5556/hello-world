@@ -1,7 +1,9 @@
 hello world
 =========
 # hello-world
-this is mainly for hello world user
+Hello World in all languages.
 
-
-this is also from naveen
+- C
+- C++
+- C#
+- Java
